@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Jerry Britto]!
+# 👋 Hi, I'm Jerry Britto!
 
 Welcome to my GitHub profile! I’m passionate about **innovative solutions** and creating meaningful impact. Excited to contribute to **open source** and **collaborate on new ideas**. Let’s connect and build something which is  extraordinary.
 
@@ -33,7 +33,7 @@ Welcome to my GitHub profile! I’m passionate about **innovative solutions** an
 ---
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jerry-Britto&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jerry-Britto&show_icons=true&theme=radical) <br/>
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jerry-Britto&layout=compact&langs_count=8&theme=radical)
 ---
 
