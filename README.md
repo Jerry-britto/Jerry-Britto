@@ -1,6 +1,6 @@
-# 👋 Hi, I'm Jerry Britto!
+#  Hi, I'm Jerry Britto!
 
-Welcome to my GitHub profile! I’m passionate about **innovative solutions** and creating meaningful impact. Excited to contribute to **open source** and **collaborate on new ideas**. Let’s connect and build something which is  extraordinary.
+I’m passionate about **innovative solutions** and creating meaningful impact. Excited to contribute to **open source** and **collaborate on new ideas**. Let’s connect and build something which is extraordinary.
 
 ---
 
