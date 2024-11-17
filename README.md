@@ -1,6 +1,6 @@
 #  Hi, I'm Jerry Britto!
 
-I’m passionate about **innovative solutions** and creating meaningful impact. Excited to contribute to **open source** and **collaborate on new ideas**. Let’s connect and build something which is extraordinary.
+I’m passionate about building **innovative solutions** and creating meaningful impact. Excited to contribute to **open source** and **collaborate on new ideas**. Let’s connect and build something which is extraordinary.
 
 ---
 
