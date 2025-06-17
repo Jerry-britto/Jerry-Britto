@@ -37,7 +37,7 @@ I’m passionate about building **innovative solutions** and creating meaningful
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jerry-Britto&layout=compact&langs_count=8&theme=radical)
 ---
 
-## 🌐 Connect with Me
+## 🌐 Let's Get in touch
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jerry-britto)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/britto_jer88297
