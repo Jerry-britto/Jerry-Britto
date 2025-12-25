@@ -26,14 +26,7 @@ I’m passionate about building **innovative solutions** and creating meaningful
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge)
 ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=for-the-badge)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white&style=for-the-badge)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=white&style=for-the-badge)
-![Appwrite](https://img.shields.io/badge/-Appwrite-F02E65?logo=appwrite&logoColor=white&style=for-the-badge)
 
----
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jerry-Britto&show_icons=true&theme=radical) <br/>
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jerry-Britto&layout=compact&langs_count=8&theme=radical)
 ---
 
 ## 🌐 Let's Get in touch
