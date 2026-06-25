@@ -14,4 +14,4 @@ I am passionate about building **innovative solutions** and creating meaningful 
 ---
 
 ## 🌐 Let's get in Touch:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_.jerry_britto._) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Jerry-Britto) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/britto_jer88297) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:brittojerry1@gmail.com) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_.jerry_britto._) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Jerry-Britto) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/britto_jer88297) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jbritto2004@gmail.com) 
